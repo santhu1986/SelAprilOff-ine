@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+ClerkUB###E
+CashierUB###E
+PoUbank###E

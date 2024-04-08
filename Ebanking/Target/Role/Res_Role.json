@@ -1,0 +1,264 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 19,
+        "name": "Verify Role Creation Functionality",
+        "description": "",
+        "id": "rolecreation;verify-role-creation-functionality;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6558697100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User Should on Ranford Home Page",
+            "match": {
+              "location": "RoleSD.user_Should_on_Ranford_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3705965500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User Enters un and Pwd click on Login",
+            "match": {
+              "location": "RoleSD.user_Enters_un_and_Pwd_click_on_Login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 310815100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Click on Role button",
+            "match": {
+              "location": "RoleSD.user_Click_on_Role_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4122238600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User click on new role and enters \"Cashieraa\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Cashieraa",
+                  "offset": 35
+                },
+                {
+                  "val": "E",
+                  "offset": 51
+                }
+              ],
+              "location": "RoleSD.user_click_on_new_role_and_enters_RoleDetails(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3258635100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User Close Application",
+            "match": {
+              "location": "RoleSD.user_Close_Application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Verify Role Creation Functionality",
+        "description": "",
+        "id": "rolecreation;verify-role-creation-functionality;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4975294600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User Should on Ranford Home Page",
+            "match": {
+              "location": "RoleSD.user_Should_on_Ranford_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3650748500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User Enters un and Pwd click on Login",
+            "match": {
+              "location": "RoleSD.user_Enters_un_and_Pwd_click_on_Login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 329571400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Click on Role button",
+            "match": {
+              "location": "RoleSD.user_Click_on_Role_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4113723200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User click on new role and enters \"Telleraa\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Telleraa",
+                  "offset": 35
+                },
+                {
+                  "val": "E",
+                  "offset": 50
+                }
+              ],
+              "location": "RoleSD.user_click_on_new_role_and_enters_RoleDetails(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3417102000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User Close Application",
+            "match": {
+              "location": "RoleSD.user_Close_Application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Verify Role Creation Functionality",
+        "description": "",
+        "id": "rolecreation;verify-role-creation-functionality;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4998255200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User Should on Ranford Home Page",
+            "match": {
+              "location": "RoleSD.user_Should_on_Ranford_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3669139500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User Enters un and Pwd click on Login",
+            "match": {
+              "location": "RoleSD.user_Enters_un_and_Pwd_click_on_Login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 329356100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Click on Role button",
+            "match": {
+              "location": "RoleSD.user_Click_on_Role_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4114436400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User click on new role and enters \"Gmanageraa\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gmanageraa",
+                  "offset": 35
+                },
+                {
+                  "val": "E",
+                  "offset": 52
+                }
+              ],
+              "location": "RoleSD.user_click_on_new_role_and_enters_RoleDetails(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1276929100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User Close Application",
+            "match": {
+              "location": "RoleSD.user_Close_Application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "RoleCreation",
+    "description": "",
+    "id": "rolecreation",
+    "keyword": "Feature",
+    "uri": "D:/SeleniumMarchOnline/Ebanking/src/Feature/Role.feature"
+  }
+]

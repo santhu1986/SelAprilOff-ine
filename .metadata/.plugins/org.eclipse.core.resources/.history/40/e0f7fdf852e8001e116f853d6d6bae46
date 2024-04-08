@@ -1,0 +1,14 @@
+package com.ebanking.master;
+
+public class ExeLib {
+
+	public static void main(String[] args) throws InterruptedException 
+	{
+	      Library LB=new Library();
+	      
+	      LB.OpenApp("http://103.211.39.246/ranford2/");
+	      LB.AdminLgn();
+	      LB.BranchCre();
+	}
+
+}

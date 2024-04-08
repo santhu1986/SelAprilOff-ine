@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+ClerkUB###E&^$#%Role Already existed
+CashierUB###E&^$#%New Role with id 2887 Created Sucessfully
+PoUbank###E&^$#%Role Already existed

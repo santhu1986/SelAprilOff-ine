@@ -1,0 +1,14 @@
+package com.ebanking.master;
+
+public class ExeLib {
+
+	public static void main(String[] args) throws InterruptedException 
+	{
+	      Library LB=new Library();
+	      
+	      LB.OpenApp();
+	      LB.AdminLgn();
+	      LB.BranchCre();
+	}
+
+}
